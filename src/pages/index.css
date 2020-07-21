@@ -1,0 +1,84 @@
+.d-color {
+   background-color: #120913;
+}
+
+.d-image {
+   background-image: url('../assets/images/sky.png');
+}
+
+.d-white {
+   background-color: #f2f0ed;
+ }
+
+ .d-width {
+    width: 50px;
+ }
+
+ .d-button {
+    color: white;
+    background-color: #7850fa;
+    border-radius: 0rem;
+    font-size: 14px;
+ }
+
+ .d-button:hover {
+    color: #f2f0ed;
+ }
+
+ .d-button2 {
+   color: white;
+   background-color: #332933;
+   border-radius: 0rem;
+   font-size: 14px;
+}
+
+.d-button2:hover {
+   color: #f2f0ed;
+}
+
+.d-text1 {
+   text-align: left;
+   font-family: Guida Pro;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 3em;
+   line-height: 92%;
+   color: #333230;
+}
+
+.d-text3 {
+   text-align: left;
+   font-size: 1.4em;
+   line-height: 120%;
+}
+
+.d-text4 {
+   text-align: left;
+   font-family: Guida Pro;
+   font-style: normal;
+   font-size: 2em;
+   line-height: 82%;
+}
+
+.d-text5 {
+   text-align: left;
+   font-family: Guida Pro;
+   font-style: normal;
+   font-size: 2.18em;
+   line-height: 92%;
+   color: #333230;
+}
+
+.d-card2 {
+   font-size: 36px;
+   line-height: 82%;
+   width: 96%;
+   background-color: #744DF3;
+}
+
+.d-card3 {
+   font-size: 36px;
+   line-height: 82%;
+   width: 92%;
+   background-color: #221822;
+}

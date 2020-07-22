@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-newage",
+  "name": "Robocorp",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on New age by startbootstrap",
+  "description": "Robocorp",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-newage.git"
+    "url": ""
   },
   "author": {
     "name": "Anubhav Srivastava",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-newage/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-newage#readme"
+  "homepage": "https://robocorp.com"
 }
